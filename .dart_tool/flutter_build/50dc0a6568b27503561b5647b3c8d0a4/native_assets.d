@@ -1,0 +1,1 @@
+ /Users/lgrieg/Documents/github/kitten_center/.dart_tool/flutter_build/50dc0a6568b27503561b5647b3c8d0a4/native_assets.yaml: 
